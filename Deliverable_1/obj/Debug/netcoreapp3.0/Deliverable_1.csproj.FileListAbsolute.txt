@@ -1,0 +1,11 @@
+/Users/shenayrussell/Projects/Deliverable_1/Deliverable_1/obj/Debug/netcoreapp3.0/Deliverable_1.csprojAssemblyReference.cache
+/Users/shenayrussell/Projects/Deliverable_1/Deliverable_1/obj/Debug/netcoreapp3.0/Deliverable_1.AssemblyInfoInputs.cache
+/Users/shenayrussell/Projects/Deliverable_1/Deliverable_1/obj/Debug/netcoreapp3.0/Deliverable_1.AssemblyInfo.cs
+/Users/shenayrussell/Projects/Deliverable_1/Deliverable_1/bin/Debug/netcoreapp3.0/Deliverable_1
+/Users/shenayrussell/Projects/Deliverable_1/Deliverable_1/bin/Debug/netcoreapp3.0/Deliverable_1.deps.json
+/Users/shenayrussell/Projects/Deliverable_1/Deliverable_1/bin/Debug/netcoreapp3.0/Deliverable_1.runtimeconfig.json
+/Users/shenayrussell/Projects/Deliverable_1/Deliverable_1/bin/Debug/netcoreapp3.0/Deliverable_1.runtimeconfig.dev.json
+/Users/shenayrussell/Projects/Deliverable_1/Deliverable_1/bin/Debug/netcoreapp3.0/Deliverable_1.dll
+/Users/shenayrussell/Projects/Deliverable_1/Deliverable_1/bin/Debug/netcoreapp3.0/Deliverable_1.pdb
+/Users/shenayrussell/Projects/Deliverable_1/Deliverable_1/obj/Debug/netcoreapp3.0/Deliverable_1.dll
+/Users/shenayrussell/Projects/Deliverable_1/Deliverable_1/obj/Debug/netcoreapp3.0/Deliverable_1.pdb
